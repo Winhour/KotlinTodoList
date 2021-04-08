@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="dodaj_co_do_listy">Dodaj coś do listy</string>
+    <string name="przyk_ad">Przykład</string>
+    <string name="usu_z_listy">Usuń z Listy</string>
+    <string name="dodaj">Dodaj</string>
+</resources>
